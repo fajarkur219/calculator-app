@@ -9,7 +9,7 @@ class Calculator
 		 
 		 console.Writeline("\Tekan Sembarang key untuk keluar");
 		 console.ReadKey();
-	 }
+	}
 	 static int Penambahan(int a, int b )
 	{
 		return a + b;
